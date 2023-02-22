@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _abs - absolute value 
  * @n: integer to find absolute value
