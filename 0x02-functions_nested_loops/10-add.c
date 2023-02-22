@@ -3,8 +3,8 @@
 
 /**
  * add - add two numbers
- * @a: the first number
- * @b: the second number
+ * @n1: the first number
+ * @n2: the second number
  * Return: the addition of both
  */
 int add(int n1, int n2)
